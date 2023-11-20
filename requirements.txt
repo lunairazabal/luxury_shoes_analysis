@@ -3,4 +3,6 @@ numpy
 matplotlib
 seaborn
 ipykernel
+jupyterlab==4.0.1
+jupyter_to_medium
 
